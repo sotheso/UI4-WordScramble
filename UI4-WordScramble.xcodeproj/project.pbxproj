@@ -11,6 +11,8 @@
 		9BD4BC402D042649002FC41B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BD4BC3F2D042649002FC41B /* ContentView.swift */; };
 		9BD4BC422D042649002FC41B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9BD4BC412D042649002FC41B /* Assets.xcassets */; };
 		9BD4BC452D042649002FC41B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9BD4BC442D042649002FC41B /* Preview Assets.xcassets */; };
+		9BD4BC4C2D042BC1002FC41B /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9BD4BC4B2D042BC1002FC41B /* start.txt */; };
+		9BD4BC4E2D045602002FC41B /* UI4.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BD4BC4D2D045602002FC41B /* UI4.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		9BD4BC3F2D042649002FC41B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9BD4BC412D042649002FC41B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9BD4BC442D042649002FC41B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9BD4BC4B2D042BC1002FC41B /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
+		9BD4BC4D2D045602002FC41B /* UI4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = UI4.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 				9BD4BC3D2D042649002FC41B /* UI4_WordScrambleApp.swift */,
 				9BD4BC3F2D042649002FC41B /* ContentView.swift */,
 				9BD4BC412D042649002FC41B /* Assets.xcassets */,
+				9BD4BC4B2D042BC1002FC41B /* start.txt */,
+				9BD4BC4D2D045602002FC41B /* UI4.png */,
 				9BD4BC432D042649002FC41B /* Preview Content */,
 			);
 			path = "UI4-WordScramble";
@@ -125,7 +131,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9BD4BC4E2D045602002FC41B /* UI4.png in Resources */,
 				9BD4BC452D042649002FC41B /* Preview Assets.xcassets in Resources */,
+				9BD4BC4C2D042BC1002FC41B /* start.txt in Resources */,
 				9BD4BC422D042649002FC41B /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
